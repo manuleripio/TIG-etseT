@@ -1,12 +1,12 @@
 function sum(){
-var a = 4;
-var b = 5;
-
-console.log( a + b );
+    //TODO: Implementar adição
 }
 
 function sub(){
-    //TODO: Implementar subtração
+    var c = 9;
+    var d = 1;
+
+    console.log( c + d );
 }
 
 function mult(){
