@@ -7,7 +7,10 @@ function sub(){
 }
 
 function mult(){
-    //TODO: Implementar multiplicação
+    var f = 10;
+    var h = 5;
+
+    console.log(f + h);
 }
 
 function div(){
