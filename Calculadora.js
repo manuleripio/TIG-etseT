@@ -1,5 +1,8 @@
 function sum(){
-    //TODO: Implementar soma
+var a = 4;
+var b = 5;
+
+console.log( a + b );
 }
 
 function sub(){
