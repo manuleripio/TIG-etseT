@@ -1,20 +1,21 @@
 function sum(){
-var a = 4;
-var b = 5;
-
-console.log( a + b );
+    // nessa função é realizado o cálculo da soma
+    var  a  =  4 ;
+    var  b  =  5 ;
+  
+    console.log (  a  +  b  ) ;
 }
 
-function sub() {
-    //nessa função é a relizado o cálculo de subtração
-    var c = 9;
-    var d = 1;
-
-    console.log(c - d);
+function sub(){
+    // nessa função é a relizado o cálculo de subtração
+    var  c  =  9 ;
+    var  d  =  1 ;
+   
+    console . log ( c - d ) ;  
 }
 
-function mult(){
-  //nessa função é a relizado o cálculo de multiplicação
+function mult () {
+   //nessa função é a relizado o cálculo de multiplicação
     var f = 10;
     var h = 5;
 
@@ -22,10 +23,10 @@ function mult(){
 }
 
 
-function div(){
-   var l = 9;
-   var m = 3;
+function div (){
+  //nessa função é a relizado o cálculo de multiplicação
+    var f = 10;
+    var h = 5;
 
-   console.log( 9 / 3 );
+    console.log(f / h);
 }
-
