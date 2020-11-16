@@ -1,18 +1,19 @@
-function sum(){
+function sum() {
     //TODO: Implementar soma
 }
 
-function sub(){
+function sub() {
     //TODO: Implementar subtração
 }
 
-function mult(){
+function mult() {
+    // nessa funtion é realizado a multiplicação das variáveis
     var f = 10;
     var h = 5;
 
-    console.log(f + h);
+    console.log(f * h);
 }
 
-function div(){
+function div() {
     //TODO: Implementar divisão
 }
