@@ -1,19 +1,21 @@
-function sum(){
-var a = 4;
-var b = 5;
-
-console.log( a + b );
+function sum() {
+    //TODO: Implementar adição
 }
 
-function sub(){
-    //TODO: Implementar subtração
+function sub() {
+    //nessa função é a relizado o cálculo de subtração
+    var c = 9;
+    var d = 1;
+
+    console.log(c - d);
 }
 
 function mult(){
+  //nessa função é a relizado o cálculo de multiplicação
     var f = 10;
     var h = 5;
 
-    console.log(f + h);
+    console.log(f * h);
 }
 
 function div(){
