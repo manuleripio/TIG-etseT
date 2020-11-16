@@ -1,18 +1,19 @@
-function sum(){
+function sum() {
     //TODO: Implementar adição
 }
 
-function sub(){
+function sub() {
+    //nessa função é a relizado o cálculo de subtração
     var c = 9;
     var d = 1;
 
-    console.log( c + d );
+    console.log(c - d);
 }
 
-function mult(){
+function mult() {
     //TODO: Implementar multiplicação
 }
 
-function div(){
+function div() {
     //TODO: Implementar divisão
 }
