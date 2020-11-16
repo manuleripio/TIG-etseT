@@ -1,0 +1,160 @@
+    1  git version--
+    2  git config--global user.name "Alessandra Colvara de Souza"
+    3  git confif --global user.email "peglowalessandra@gmail.com"
+    4  $ git confif --global user.email "peglowalessandra@gmail.com"
+    5  git: 'confif' is not a git command. See 'git --help'.
+    6  git config --global user.email "peglowalessandra@gmail.com"
+    7   git config--global user.name "Alessandra Colvara de Souza"
+    8  cd senac
+    9  cd engenharia1
+   10  git init
+   11  git remote add origin git@github.com:alepeglow/Git---ES.git
+   12  git status
+   13  git add Personagem.ts
+   14  git status
+   15  git commit - m "Cria base do projeto"
+   16  git commit -m 'Cria base do projeto'
+   17  git add Principal.ts
+   18  git status
+   19  git commit -m 'Cria base do projeto'
+   20  git add package-lock.json
+   21  git status
+   22  git commit -m 'Adiciona configuração inicial do projeto'
+   23  git status
+   24  git add tsconfig.json
+   25  git status
+   26  git commit -m 'Adiciona configuração inicial do projeto'
+   27  git status
+   28  git add package.json
+   29  git commit -m 'Adiciona configuração inicial do projeto'
+   30  git status 
+   31  git ignore node_modules
+   32  gitignore node_modules/
+   33  git push -u origin master
+   34  git init
+   35  git remote add origin git@github.com:C:/Users/aless/senac/engenharia1/.git/
+   36  git remote add origin git@github.com: alepeglow/Git-ativ.git
+   37  git status
+   38  git add Principal.ts
+   39  git commit-m'Cria base do projeto'
+   40  cd senac
+   41  cd engenharia1
+   42  git init
+   43  git status
+   44  git remote add origin git@github.com : alepeglow/Git-ativ
+   45  git push -u origin master
+   46  ssh-keygen -t rsa -b 4096 -C "peglowalessandra@gmail.com"
+   47  cd senac
+   48  cd engenharia1
+   49  git status
+   50  ls
+   51  git log
+   52  git push -u origin master
+   53  git remote-v
+   54  git remote -v
+   55  git clone https://github.com/alepeglow/Git---ES.git
+   56  ls
+   57  cd package.json
+   58  cd senac
+   59  cd. senac
+   60  ls
+   61  rm -rf Git---ES
+   62  ls
+   63  cd.. senac
+   64  cd..
+   65  cd senac
+   66  git clone https://github.com/alepeglow/Git---ES
+   67  npm i -g gitmoji-cli
+   68  cd senac
+   69  git init
+   70  git clone https://github.com/alepeglow/Git---PI
+   71  cd Git---PI
+   72  git init
+   73  git status
+   74  git add estilos.css
+   75  git commit -m ' Cria a base inicial do projeto'
+   76  git status
+   77  gitmoji
+   78  --list, -1
+   79  --search, -s
+   80  gitmoji --search, -s
+   81  git reset
+   82  git status
+   83  git reset HEAD
+   84  git status
+   85  git reset --hard HEAD~1
+   86  git status
+   87  git add estilos1.css
+   88  git commit -m 'Cria a base inicial do projeto'
+   89  git status
+   90  git add index.html
+   91  git commit -m 'Cria a base inicial do projeto'
+   92  gitmoji -l
+   93  gitmoji :tada:
+   94  gitmoji -i
+   95  git commit
+   96  git add index.html
+   97  git add index1.html
+   98  git commit
+   99  cd senac
+  100  cd Git---PI
+  101  git init
+  102  git status
+  103  git commit -m ':tada: Cria a base inicial do projeto'
+  104  cd senac
+  105  cd Git---PI
+  106  npm i -ggitmoji-cli
+  107  npm i -g gitmoji-cli
+  108  git status
+  109  git commit -m ":tada: Cria a base inicial do projeto"
+  110   git commit -m ":tada: Cria a base inicial do projeto"
+  111   git commit -m ":tada: Cria a base inicial do projeto"
+  112  cd senac
+  113  cd Git---PI
+  114  git init
+  115  git status
+  116  git add index1.html
+  117  git checkout master
+  118  npm i -g gitmoji-cli
+  119  git commit -m ":tada:Cria base inicial do projeto"
+  120  cd senac
+  121  cd Git---P
+  122  cd Git---PI
+  123  git init
+  124  git status
+  125  git add. index1.html
+  126  git add index1.html
+  127  npm i -g gitmoji-cli
+  128  git commit -m ":tada: Cria a base inicial do projeto"
+  129  git push origin master
+  130  cd senac
+  131  git clone alepeglow/Git---PI
+  132  git clone https://github.com/alepeglow/Git---PI
+  133  cd Git---PI
+  134  git checkout master
+  135  git init
+  136  git status
+  137  git add index.html
+  138  git status
+  139  git add estilos.css
+  140  git status
+  141  git commit -m ":tada: Cria a base inicial do projeto"
+  142  npm i -g gitmoji-cli
+  143   git commit -m ":tada: Cria a base inicial do projeto"
+  144  git push origin main
+  145  cd senac
+  146  git clone https://github.com/manuleripio/TIG-etseT
+  147  cd TIG-etseT
+  148  git fetch && git checkout feature/div
+  149  code .
+  150  git branch fix/div & git checkout fix/div
+  151  git clone https://github.com/manuleripio/TIG-etseT
+  152  git branch fix/div & git checkout fix/div
+  153  git branch
+  154  git status
+  155  git status
+  156  git add Calculadora.js
+  157  git commit -m 'adição do comentário na função div'
+  158  git push origin fix/div
+  159  history
+  160  history > LOG_Alessandra

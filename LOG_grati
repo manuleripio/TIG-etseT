@@ -1,0 +1,67 @@
+ 1497  cd Documents/ADS/'Engenharia de Software'
+ 1498  git clone https://github.com/manuleripio/TIG-etseT.git
+ 1499  ls
+ 1500  git TIG-etseT
+ 1501  cd ..
+ 1502  https://github.com/manuleripio/TIG-etseT.git
+ 1503  git clone https://github.com/manuleripio/TIG-etseT.git
+ 1504  ls
+ 1505  cd TIG-etseT/
+ 1506  LS
+ 1507  ls
+ 1508  code .
+ 1509  git branch feature/div
+ 1510  ls
+ 1511  code .
+ 1512  git branch
+ 1513  git branch feature/mult
+ 1514  git checkout feature/sum
+ 1515* 
+ 1516  git branch
+ 1517  git checkout feature/div
+ 1518  git branch -D feature/div
+ 1519* 
+ 1520  git branch -D feature/div
+ 1521  git branch -D feature/mult
+ 1522  history
+ 1523  git fetch && git checkout BI-591-rever-modelos-e-ajustar
+ 1524  git fetch && git checkout feature/div
+ 1525  git branch
+ 1526  code .
+ 1527  git fetch && git checkout feature/div
+ 1528  history grep 'git'
+ 1529  history
+ 1530  ls
+ 1531  cd Documents/
+ 1532  ls
+ 1533  cd ADS
+ 1534  LS
+ 1535  ls
+ 1536  cd TIG-etseT/
+ 1537  ls
+ 1538  git branch
+ 1539  git status
+ 1540  git push origin fix/mult
+ 1541  cd Documents/
+ 1542  cd ADS
+ 1543  cd TIG-etseT/
+ 1544  ls
+ 1545  git fetch && git checkout feature/sub
+ 1546  history
+ 1547  git status 
+ 1548* 
+ 1549  git push origin fix/mult
+ 1550  git branch
+ 1551  git push origin fix/sub
+ 1552  cd ..
+ 1553  git clone https://github.com/manuleripio/TIG-etseT.git
+ 1554  cd ~
+ 1555  cd Documents/
+ 1556  ls 
+ 1557  cd ADS
+ 1558  ls
+ 1559  cd Engenharia\ de\ Software/
+ 1560  git clone https://github.com/manuleripio/TIG-etseT.git
+ 1561  ls
+ 1562  cd TIG-etseT/
+ 1563  history > LOG_grati

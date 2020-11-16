@@ -1,0 +1,59 @@
+ 0001  cd Documents/
+ 0002  ls
+ 0003  cd ADS
+ 0004  git branch feature/sum
+ 0005  git branch
+ 0006  code .
+ 0007  git status
+ 0008  git add .
+ 0009  git commit -m 'adição da função soma'
+ 0010  git push origin feature/sum
+ 0012  history
+ 0013  ls
+ 0014  cd Documents/
+ 0015  ls
+ 0016  cd ADS
+ 0017  ls
+ 0018  cd Documents/
+ 0019  ls
+ 0020  cd ADS
+ 0021  git branch feature/sub
+ 0022  git branch
+ 0023  code .
+ 0024  git status
+ 0025  git add .
+ 0026  git commit -m 'adição da função sub'
+ 0027  git push origin feature/sub
+ 0028  history
+ 0029  ls
+ 0030  cd Documents/
+ 0031  ls
+ 0032  cd ADS
+ 0033  ls
+ 0021  git branch feature/mult
+ 0022  git branch
+ 0023  code .
+ 0024  git status
+ 0025  git add .
+ 0026  git commit -m 'adição da função mult'
+ 0027  git push origin feature/sub
+ 0028  history
+ 0029  ls
+ 0030  cd Documents/
+ 0031  ls
+ 0032  cd ADS
+ 0033  ls
+ 0021  git branch feature/div
+ 0022  git branch
+ 0023  code .
+ 0024  git status
+ 0025  git add .
+ 0026  git commit -m 'adição da função div'
+ 0027  git push origin feature/sub
+ 0028  history
+ 0029  ls
+ 0030  cd Documents/
+ 0031  ls
+ 0032  cd ADS
+ 0033  ls
+ 0034  history > LOG_manu
