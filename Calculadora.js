@@ -11,5 +11,8 @@ function mult(){
 }
 
 function div(){
-    //TODO: Implementar divisão
+   var l = 9;
+   var m = 3;
+
+   console.log( 9 / 3 );
 }
