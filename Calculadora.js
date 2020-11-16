@@ -10,10 +10,17 @@ function sub() {
     console.log(c - d);
 }
 
-function mult() {
-    //TODO: Implementar multiplicação
+function mult(){
+  //nessa função é a relizado o cálculo de multiplicação
+    var f = 10;
+    var h = 5;
+
+    console.log(f * h);
 }
 
-function div() {
-    //TODO: Implementar divisão
+function div(){
+   var l = 9;
+   var m = 3;
+
+   console.log( 9 / 3 );
 }
