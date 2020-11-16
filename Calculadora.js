@@ -1,5 +1,8 @@
-function sum() {
-    //TODO: Implementar adição
+function sum(){
+var a = 4;
+var b = 5;
+
+console.log( a + b );
 }
 
 function sub() {
@@ -18,9 +21,11 @@ function mult(){
     console.log(f * h);
 }
 
+
 function div(){
    var l = 9;
    var m = 3;
 
    console.log( 9 / 3 );
 }
+
